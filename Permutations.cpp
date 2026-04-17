@@ -5,10 +5,6 @@ int main(void){
 	ios::sync_with_stdio(0);
 	cin.tie(0);
 int a;
-int x;
-bool safe;
-bool founded=false;
-bool first=true;
 cin>>a;
 
 if(a==1){
